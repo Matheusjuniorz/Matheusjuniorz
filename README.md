@@ -9,7 +9,7 @@
     <img src="https://img.shields.io/github/followers/Matheusjuniorz?label=Seguidores&style=social" alt="GitHub Followers">
   </a>
   <a href="mailto:seuemailaqui@gmail.com">
-    <img src="https://img.shields.io/badge/Email-batistam032qui@gmail.com-red?style=flat&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Email-batistam032@gmail.com-red?style=flat&logo=gmail&logoColor=white" />
   </a>
   <a href="https://www.linkedin.com/in/seu-link-aqui">
     <img src="https://img.shields.io/badge/LinkedIn-MatheusJunior-blue?style=flat&logo=linkedin" />
