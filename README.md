@@ -88,7 +88,7 @@
 ## 📬 Contato
 
 - 📧 Email: **batistam032@gmail.com**
-- 💼 LinkedIn: https://www.linkedin.com/in/matheus-junior-7a0257300/](https://www.linkedin.com/in/matheus-junior-z/
+- 💼 LinkedIn: [https://www.linkedin.com/in/matheus-junior-7a0257300/](https://www.linkedin.com/in/matheus-junior-z/](https://www.linkedin.com/in/matheus-junior-z/)
 
 ---
 
