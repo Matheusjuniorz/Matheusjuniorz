@@ -87,8 +87,8 @@
 
 ## 📬 Contato
 
-- 📧 Email: **seuemailaqui@gmail.com**
-- 💼 LinkedIn: [linkedin.com/in/seu-link-aqui](https://www.linkedin.com/in/seu-link-aqui)
+- 📧 Email: **batistam032@gmail.com**
+- 💼 LinkedIn: [[linkedin.com/in/seu-link-aqui](https://www.linkedin.com/in/seu-link-aqui)](https://www.linkedin.com/in/matheus-junior-7a0257300/)
 
 ---
 
