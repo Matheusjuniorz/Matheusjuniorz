@@ -53,7 +53,6 @@
 | 🔗 [**Projeto Django Base**](https://github.com/Matheusjuniorz) | Estrutura de projeto Django pronta para APIs e sistema web |
 | 🔗 [**Portfólio em HTML/CSS**](https://github.com/Matheusjuniorz) | Página pessoal responsiva usando apenas HTML5 e CSS3 |
 
-> *Você pode editar os links para apontar para os repositórios reais acima.*
 
 ---
 
