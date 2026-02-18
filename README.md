@@ -79,7 +79,7 @@
 - [x] Criar CRUDs com Tkinter
 - [x] Estudar HTML e CSS
 - [ ] Aprofundar em JavaScript moderno
-- [ ] Trabalhar com bancos MySQL
+- [x] Trabalhar com bancos MySQL
 - [ ] Construir APIs REST com Django
 
 ---
